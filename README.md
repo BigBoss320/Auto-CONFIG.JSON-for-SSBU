@@ -27,4 +27,4 @@ If you already have Python :
 
 # Bugs ?
 
-If you aare having trouble or nothing happened, tell me in details the steps to reproduce this bug.
+If you are having trouble or nothing happened, tell me in details the steps to reproduce this bug.
