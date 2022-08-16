@@ -24,3 +24,7 @@ If you already have Python :
 6) Wait a second, the program will generate a config.json file in the root of the chosen directory
 
 7) Ready !
+
+# Bugs ?
+
+If you aare having trouble or nothing happened, tell me in details the steps to reproduce this bug.
