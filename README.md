@@ -15,7 +15,7 @@ If you already have Python :
 2) Run "AutoConfig UI" with Python previously installed
 
 3) Choose your desired slot (from 0 to 7) or Extra slot (from 8 to 99)
-\nPS: Extra slots are only compatible with Arcropolis 3.6.0 and later
+   - PS: Extra slots are only compatible with Arcropolis 3.6.0 and later
 
 4) Select the ROOT directory of the mod folder
 
