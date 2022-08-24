@@ -6,10 +6,10 @@ A tool that generate a config.json for SSBU skin mods
 
 Here is a simple use of the tool:
 
-##If you don't have Python :
+## If you don't have Python :
 0) Download Python 3.9 or later here : https://www.python.org/downloads/
 
-##If you already have Python :
+## If you already have Python :
 1) DO NOT separate or rename "auto_config.pyw" and "AutoConfigUIBeta2.pyw"
 
 2) Run "AutoConfig UI" with Python previously installed
